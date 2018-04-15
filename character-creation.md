@@ -22,3 +22,13 @@ Create a character by rolling a D6 three times. The rolls determine attributes o
 |4|Non Religious|
 |5|Other Abramhamic|
 |6|Player Chooses|
+
+## Weatlh
+|Roll|Attribute|
+|---|---|
+|1|Poor|
+|2|Middle Class|
+|3|Lower Middle Class|
+|4|Middle Class|
+|5|Wealthy|
+|6|Poor|
