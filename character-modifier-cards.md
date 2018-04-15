@@ -24,3 +24,5 @@
 * Social Support Network
   * Strong
   * Weak
+* Non-national
+
